@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hire",
+				"hireTimeInSecconds\t⌬ tabnine"
+			],
+			[
+				"ui",
+				"utils\t⌬ tabnine"
+			],
+			[
+				"enit",
+				"entity1\t⌬ tabnine"
+			],
+			[
+				"SDL_T",
+				"SDL_Texture* Entity::getTexture\t⌬ tabnine"
+			],
+			[
+				"Rend",
+				"RenderWindow\t⌬ tabnine"
+			],
+			[
+				"get",
+				"getElementByType"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"hide",
+				"hidePopup();"
+			],
+			[
+				"onclick",
+				"onclick=\""
+			],
+			[
+				"border",
+				"border-radius:"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"wrap",
+				"word-wrap"
+			],
+			[
+				"float",
+				"float: left;"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"deco",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-color:"
+			],
+			[
+				"display",
+				"display: none;"
+			],
+			[
+				"dv",
+				"div class=\""
+			],
+			[
+				"height",
+				"height: 100%;"
+			],
+			[
+				"width",
+				"width: 100%;"
+			],
+			[
+				"class",
+				"class=\"col-md-"
+			],
+			[
+				"boo",
+				"bootstrap.min.js\"></script>"
+			],
+			[
+				"boots",
+				"bootstrap.min.js"
+			],
+			[
+				"arr",
+				"array())"
+			],
+			[
+				"f",
+				"file_exists"
+			],
+			[
+				"method",
+				"method_exists()"
+			],
+			[
+				"FILTER_SANITI",
+				"FILTER_SANITIZE_URL);"
+			],
+			[
+				"up",
+				"up_map"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"check",
+				"check_admin_login"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"my",
+				"mysqli_query"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"s",
+				"snakebites WHERE id = '$id'"
+			],
+			[
+				"resu",
+				"result['map'];"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"yell",
+				"lightgoldenrodyellow"
+			],
+			[
+				"blue",
+				"lightblue"
+			],
+			[
+				"red",
+				"indianred"
+			],
+			[
+				"decor",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"maroon;"
+			],
+			[
+				"lightgre",
+				"lightgreen"
+			],
+			[
+				"backgroun",
+				"background-color:"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"styles",
+				"styles.css\" />"
+			],
+			[
+				"_SE",
+				"$_SESSION"
+			],
+			[
+				"passwrod",
+				"password"
+			],
+			[
+				"reus",
+				"result"
+			],
+			[
+				"usern",
+				"user_name"
+			],
+			[
+				"pass",
+				"dbpassword"
+			],
+			[
+				"us",
+				"dbuser"
+			],
+			[
+				"db",
+				"dbhost"
+			],
+			[
+				"style",
+				"style=\"margin"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage resource",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/SDL Projects/Physics 2D Platformer/main.o",
+		"/F/SDL Projects/Physics 2D Platformer/src/renderwindow.cpp",
+		"/F/SDL Projects/Physics 2D Platformer/include/RenderWindow.hpp",
+		"/F/SDL Projects/Physics 2D Platformer/src/entity.cpp",
+		"/F/SDL Projects/Physics 2D Platformer/include/Entity.hpp",
+		"/F/SDL Projects/Physics 2D Platformer/Physics 2D Platformer.sublime-project",
+		"/C/Users/ollie/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/xampp/htdocs/Viper2-master/autoupdate-funcs.php",
+		"/C/xampp/htdocs/Viper2-master/silence.php",
+		"/C/xampp/htdocs/Viper2-master/card-styles.css",
+		"/C/xampp/htdocs/school/private/core/autoload.php",
+		"/C/xampp/htdocs/school/private/core/controller.php",
+		"/C/xampp/htdocs/school/private/views/profile.view.php",
+		"/C/xampp/htdocs/verify/functions.php",
+		"/D/Downloads/Animated Login Form/Animated Login Form/style.css",
+		"/C/xampp/htdocs/vipersden/scss.css",
+		"/C/xampp/htdocs/cardprototypedesigns/prototype_1/reset-styles.css",
+		"/C/xampp/htdocs/testing/html",
+		"/C/xampp/htdocs/school/private/views/includes/crumbs.view.php",
+		"/C/xampp/htdocs/school/private/views/includes/header.view.php",
+		"/C/xampp/htdocs/school/private/views/includes/footer.view.php",
+		"/C/xampp/htdocs/school/private/views/signup.view.php",
+		"/C/xampp/htdocs/school/private/core/app.php",
+		"/C/xampp/htdocs/school/private/views/login.view.php",
+		"/C/xampp/htdocs/school/private/views/includes/nav.view.php",
+		"/C/xampp/htdocs/school/private/views/home.view.php",
+		"/C/xampp/htdocs/school/private/core/config.php",
+		"/C/xampp/htdocs/school/private/controllers/Signup.php",
+		"/C/xampp/htdocs/school/private/controllers/Login.php",
+		"/C/xampp/htdocs/school/private/views/404.view.php",
+		"/C/xampp/htdocs/school/private/controllers/Students.php",
+		"/C/xampp/htdocs/school/private/controllers/Home.php",
+		"/C/xampp/htdocs/school/private/core/database.php",
+		"/C/xampp/htdocs/school/public/index.php",
+		"/C/xampp/htdocs/school/private/controllers/students.php",
+		"/C/xampp/htdocs/school/private/controllers/home.php",
+		"/C/xampp/htdocs/vipersden/functions.php",
+		"/C/xampp/htdocs/login/functions.php",
+		"/Y/Viper2/profile.php",
+		"/Y/Viper2/verifylineup.php",
+		"/Y/Viper2/newlineup.php",
+		"/C/xampp/htdocs/autoupdate/newlineup.php",
+		"/C/xampp/htdocs/autoupdate/functions.php",
+		"/C/xampp/htdocs/autoupdate/index.php",
+		"/Y/Viper2/profile.css",
+		"/Y/Viper2/autoupdate-styles.css",
+		"/Y/Viper2/autoupdate.php",
+		"/Y/Viper2/functions.php",
+		"/C/xampp/htdocs/autoupdate/connection2.php",
+		"/C/xampp/htdocs/autoupdate/styles.css",
+		"/C/xampp/htdocs/autoupdate/verifylineup.php",
+		"/C/xampp/htdocs/vipersden/silence.php",
+		"/C/xampp/htdocs/autoupdate/autoupdate-styles.css",
+		"/C/xampp/htdocs/autoupdate/autoupdate.php",
+		"/C/xampp/htdocs/autoupdate/connection.php",
+		"/C/xampp/htdocs/login/index.php",
+		"/Y/Viper2/LoginSystem/readme.md",
+		"/Y/Viper2/logout.php",
+		"/Y/Viper2/connection.php",
+		"/Y/Viper2/signup.php",
+		"/Y/Viper2/login.php",
+		"/Y/Viper2/silence.php",
+		"/Y/Viper2/LoginSystem/logout.php",
+		"/Y/Viper2/LoginSystem/login.php",
+		"/C/xampp/htdocs/login/logout.php",
+		"/C/xampp/htdocs/login/connection.php",
+		"/C/xampp/htdocs/login/login.php",
+		"/C/xampp/htdocs/login/signup.php",
+		"/Y/Viper2/Login System/functions.php",
+		"/Y/Viper2/Login System/connection.php",
+		"/Y/Viper2/Login System/login.php",
+		"/Y/Viper2/Login System/signup.php",
+		"/Y/Viper2/Login System/index.php",
+		"/Y/Viper2/Login System/logout.php",
+		"/D/ProgFiles/package-lock.json",
+		"/Y/pages/logout.php",
+		"/Y/pages/functions.php",
+		"/Y/pages/connection.php",
+		"/Y/pages/signup.php",
+		"/Y/pages/login.php",
+		"/Y/pages/account.php",
+		"/Y/pages/index.php",
+		"/Y/index.html",
+		"/D/Program Files/xampp/htdocs/login/logout.php",
+		"/D/Program Files/xampp/htdocs/login/functions.php",
+		"/D/Program Files/xampp/htdocs/login/connection.php",
+		"/D/Program Files/xampp/htdocs/login/login.php",
+		"/D/Program Files/xampp/htdocs/login/signup.php",
+		"/D/Program Files/xampp/htdocs/login/index.php",
+		"/C/Users/ollie/source/repos/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Users/Hex.json",
+		"/F/Stuff To Backup/RayMVS' Utilities/users.json",
+		"/C/Users/ollie/source/repos/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Users/Daddy.json",
+		"/C/Users/ollie/source/repos/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/Hex.json",
+		"/C/Users/ollie/source/repos/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/users.json",
+		"/C/Users/ollie/Desktop/⠀⠀/Hex Hub Utilities/Bot Files/bot.py",
+		"/C/Users/ollie/Desktop/Plugins/Server (Skript Practice)/plugins/Skript/scripts/jerry armour.sk",
+		"/C/Users/ollie/Desktop/Plugins/Server (Skript Practice)/plugins/Skript/scripts/-command with cooldown.sk",
+		"/C/Users/ollie/Desktop/Plugins/Server (Skript Practice)/plugins/Skript/scripts/-item command.sk",
+		"/C/Users/ollie/Desktop/Plugins/Server (Skript Practice)/plugins/Skript/scripts/-simple god mode.sk",
+		"/C/Users/ollie/Desktop/Plugins/Server (Skript Practice)/plugins/Skript/scripts/-disable weather.sk",
+		"/C/Users/ollie/Desktop/Plugins/Server (Skript Practice)/plugins/Skript/scripts/-custom helmet.sk"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if not self.quiet:",
+			"def finish"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
